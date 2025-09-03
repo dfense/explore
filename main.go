@@ -2,5 +2,5 @@ package main
 
 
 func main(){
- Announce("hello") 
+  fmt.Println("one")
 }

@@ -1,3 +1,3 @@
-module foo-test
+module one
 
 go 1.25.0
